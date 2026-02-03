@@ -2,60 +2,60 @@ building executable ArrayO2 with command clang -O2 Array.c -o ArrayO2
 
 run #1 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 112542.00 ns.
+Measured time spent in sum : 1153471.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #2 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 112041.00 ns.
+Measured time spent in sum : 1192556.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #3 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 111042.00 ns.
+Measured time spent in sum : 1605027.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #4 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 104375.00 ns.
+Measured time spent in sum : 1171165.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #5 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 109834.00 ns.
+Measured time spent in sum : 1260895.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #6 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 105916.00 ns.
+Measured time spent in sum : 1317544.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #7 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 98750.00 ns.
+Measured time spent in sum : 1357650.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #8 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 100166.00 ns.
+Measured time spent in sum : 1523214.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #9 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 96000.00 ns.
+Measured time spent in sum : 1649920.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #10 of executable ArrayO2 ...
 Running code in Array.c with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 97958.00 ns.
+Measured time spent in sum : 1128834.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.

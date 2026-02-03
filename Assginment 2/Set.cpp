@@ -8,7 +8,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-
 typedef struct timespec TIMESPEC;
 
 // This choice of clock seems to give the highest resolution on macOS.

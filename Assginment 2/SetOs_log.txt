@@ -2,60 +2,60 @@ building executable SetOs with command clang++ -Os Set.cpp -o SetOs
 
 run #1 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 113600125.00 ns.
+Measured time spent in sum : 267033056.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #2 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 114004750.00 ns.
+Measured time spent in sum : 262720027.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #3 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 116204708.00 ns.
+Measured time spent in sum : 264729696.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #4 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 115938000.00 ns.
+Measured time spent in sum : 261968542.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #5 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 113658916.00 ns.
+Measured time spent in sum : 259871904.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #6 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 114655958.00 ns.
+Measured time spent in sum : 264754401.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #7 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 115643792.00 ns.
+Measured time spent in sum : 264488470.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #8 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 112472792.00 ns.
+Measured time spent in sum : 263184945.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #9 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 114069917.00 ns.
+Measured time spent in sum : 264264271.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #10 of executable SetOs ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 114485625.00 ns.
+Measured time spent in sum : 259632901.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.

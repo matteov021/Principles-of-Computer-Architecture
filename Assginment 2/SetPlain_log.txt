@@ -2,60 +2,60 @@ building executable SetPlain with command clang++  Set.cpp -o SetPlain
 
 run #1 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 128086041.00 ns.
+Measured time spent in sum : 365918056.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #2 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 129960250.00 ns.
+Measured time spent in sum : 318669000.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #3 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 128632042.00 ns.
+Measured time spent in sum : 281165590.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #4 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 129948417.00 ns.
+Measured time spent in sum : 285563411.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #5 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 131364583.00 ns.
+Measured time spent in sum : 287843885.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #6 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 130597709.00 ns.
+Measured time spent in sum : 280826300.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #7 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 128876959.00 ns.
+Measured time spent in sum : 285032859.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #8 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 130083292.00 ns.
+Measured time spent in sum : 280447038.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #9 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 131010209.00 ns.
+Measured time spent in sum : 283772866.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.
 
 run #10 of executable SetPlain ...
 Running code in Set.cpp with N_OF_ELEMENTS = 2000000
-Measured time spent in sum : 129094666.00 ns.
+Measured time spent in sum : 300249409.00 ns.
 Checking that sum is correct ...
 Expected 1999999000000, got 1999999000000.

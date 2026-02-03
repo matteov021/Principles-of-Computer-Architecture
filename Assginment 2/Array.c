@@ -1,6 +1,7 @@
 // Array.c
 // part of ENCM 501 Winter 2026 Assignment 2
 
+#define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
